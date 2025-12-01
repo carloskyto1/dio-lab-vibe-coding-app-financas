@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Organização de Financas Carlos com Vibe Coding
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -87,3 +87,85 @@ No README do seu repositório, inclua:
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+
+
+# Documento de Requisitos do Produto (PRD)
+## Aplicativo de Organização de Finanças Pessoais via Conversa
+
+### 1. Visão Geral
+O aplicativo tem como objetivo simplificar o controle financeiro pessoal por meio de interações em linguagem natural. 
+A proposta é substituir formulários e planilhas complexas por uma experiência de conversa com um "Agente Financeiro" que auxilia o usuário a registrar gastos, definir metas e receber recomendações de economia.
+
+### 2. Problema
+Muitos usuários desistem de controlar suas finanças porque os aplicativos atuais exigem entrada manual extensa e oferecem pouca personalização. 
+O produto busca resolver isso com uma interface conversacional e recomendações automáticas.
+
+### 3. Público-Alvo
+Pessoas que desejam começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+
+### 4. Funcionalidades-Chave do MVP
+1. Registrar gastos via chat em linguagem natural.
+2. Classificar automaticamente as transações em categorias (alimentação, transporte, contas fixas, etc.).
+3. Definir e acompanhar metas financeiras simples.
+4. Receber dicas de economia personalizadas do Agente Financeiro.
+5. Visualizar relatórios básicos e personalizados.
+
+### 5. Principais Telas
+- Onboarding / Boas-vindas: explicação rápida e pergunta inicial.
+- Chat Financeiro: campo de texto para registrar gastos e respostas automáticas do agente.
+- Metas: lista de metas com barra de progresso.
+- Relatórios: gráficos simples (pizza ou barras) com destaques automáticos.
+- Dicas de Economia: recomendações curtas e práticas.
+
+### 6. Recursos Necessários
+- Processamento de Linguagem Natural (NLP) para interpretar frases.
+- Classificação automática de transações.
+- Banco de dados para armazenar gastos, metas e relatórios.
+- Motor de recomendação para gerar dicas de economia.
+- Visualização simples de dados em gráficos.
+
+### 7. Validação Inicial
+- Teste com 20–30 usuários iniciantes.
+- Métricas principais:
+  - Facilidade em registrar gastos via chat.
+  - Retenção após 1 semana de uso.
+  - Clareza das dicas e relatórios.
+- Iteração rápida:
+  - Ajustar linguagem do chat.
+  - Simplificar relatórios conforme feedback.
+  - Melhorar categorias automáticas.
+
+### 8. Próximos Passos
+- Criar protótipo navegável (ex.: Figma) com as telas principais.
+- Implementar versão beta com foco em chat, classificação e relatórios básicos.
+- Validar com usuários reais antes de expandir para funcionalidades avançadas (ex.: integração bancária).
+
+
+interacoes com o lovable:
+Crie um app de financas pessoais baseado no seguinte PRD: 
+
+resultado postado: https://chat-financas-simples.lovable.app
+
+<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/b95f8a9f-fa32-4ba2-af8a-312d30a4d792" />
+
+
+resumo:
+
+
+**Resumo das Funcionalidades do Finanças IA**
+
+**1. Autenticação de Usuário**
+- Tela de login com campos para e-mail e senha.
+- Botão “Entrar” para acessar a conta.
+- Link para cadastro de novos usuários: “Não tem uma conta? Cadastre-se”.
+
+**2. Assistente Financeiro Inteligente**
+- Descrição como “Seu assistente financeiro inteligente”, sugerindo uso de IA para suporte personalizado nas finanças.
+
+**3. Navegação por Funcionalidades-Chave**
+Na parte inferior da interface, há três ícones que indicam os principais módulos do sistema:
+- 💬 **Bate-papo Natural**: Provavelmente um chatbot com linguagem natural para tirar dúvidas, dar dicas ou executar ações financeiras.
+- 📊 **Relatórios**: Área dedicada à visualização de dados financeiros, como gastos, receitas, investimentos e análises.
+- 🎯 **Metas**: Ferramenta para definir, acompanhar e gerenciar objetivos financeiros, como economizar para uma viagem ou quitar dívidas.
+
+
